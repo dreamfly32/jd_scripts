@@ -92,7 +92,7 @@
 
  - 可以精确控制任务运行时间，有二种办法：[docker办法一](https://github.com/lxk0301/jd_scripts/tree/master/docker)、[docker办法二（和本地安装Node.js类似）](https://github.com/EvineDeng/jd-base)
  - [环境变量集合](https://github.com/lxk0301/jd_scripts/blob/master/githubAction.md)
- 
+ a
 #### 注：以上三种运行机制都是Node.js，故您需仔细阅读下面几点
 
 
